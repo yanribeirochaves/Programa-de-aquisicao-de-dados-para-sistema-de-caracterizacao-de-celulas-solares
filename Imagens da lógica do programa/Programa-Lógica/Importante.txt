@@ -1,0 +1,1 @@
+Cada pasta neste local representa uma sub-VI do programa, sendo que a estrutura hierarquica das VIs estão representadas na imagem EstruturaVI.jpg

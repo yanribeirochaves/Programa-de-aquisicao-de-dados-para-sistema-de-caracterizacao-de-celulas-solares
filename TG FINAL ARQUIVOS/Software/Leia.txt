@@ -1,0 +1,3 @@
+Este Executável é o driver da National para que o software possa ser executado sem o Labview instalado no computador. No entanto, o Software é feito especialmente para o hardware utilizado no laboratório do INPE, e só ira funcionar conectado ao sistema de medição do mesmo.
+
+Procure o driver que executa o programa no computador NIDAQ1610f3Runtime  no site da national instruments
